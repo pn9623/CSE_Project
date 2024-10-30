@@ -6,12 +6,16 @@
 
 Game Overview
 In this Snake game, the player controls a snake that moves around a bounded 2D grid. The objective is to eat fruits, which causes the snake to grow longer. The game ends when the snake collides with the walls or itself.
+
+
 Features
 •	Classic Snake gameplay with simple controls.
 •	Randomly generated fruit placement.
 •	Score tracking for both current and total scores.
 •	Restart or quit options upon game over.
 •	Basic collision detection.
+
+
 
 
 Requirements
@@ -34,9 +38,12 @@ o	P: Pause/Unpause the game
 o	Q: Quit the game
 
 
+
 •	Objective:
 o	Collect fruits (*) to grow the snake and increase your score.
 o	Avoid colliding with walls (#) or the snake itself.
+
+
 
 
 Code Structure
